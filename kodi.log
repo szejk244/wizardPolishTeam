@@ -1,0 +1,415 @@
+﻿13:20:47.113 T:1436  NOTICE: special://profile/ is mapped to: special://masterprofile/
+13:20:47.113 T:1436  NOTICE: -----------------------------------------------------------------------
+13:20:47.113 T:1436  NOTICE: Starting Kodi (17.6 Git:20171114-a9a7a20). Platform: Windows NT x86 32-bit
+13:20:47.113 T:1436  NOTICE: Using Release Kodi x32 build
+13:20:47.114 T:1436  NOTICE: Kodi compiled Dec 10 2017 by MSVC 190024215 for Windows NT x86 32-bit version 10.0 (0x0A000000)
+13:20:47.114 T:1436  NOTICE: Running on Acer Aspire E1-570 with Windows 10, kernel: Windows NT x86 64-bit version 10.0
+13:20:47.116 T:1436  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+13:20:47.117 T:1436  NOTICE: Host CPU: Unknown, 4 cores available
+13:20:47.117 T:1436  NOTICE: Desktop Resolution: 1366x768 32Bit at 60Hz
+13:20:47.118 T:1436  NOTICE: Running with restricted rights
+13:20:47.123 T:1436  NOTICE: Aero is enabled
+13:20:47.123 T:1436  NOTICE: special://xbmc/ is mapped to: C:\Program Files (x86)\Kodi
+13:20:47.123 T:1436  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files (x86)\Kodi
+13:20:47.123 T:1436  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files (x86)\Kodi/addons
+13:20:47.123 T:1436  NOTICE: special://masterprofile/ is mapped to: C:\Users\dom\AppData\Roaming\Kodi\userdata
+13:20:47.123 T:1436  NOTICE: special://home/ is mapped to: C:\Users\dom\AppData\Roaming\Kodi\
+13:20:47.123 T:1436  NOTICE: special://temp/ is mapped to: C:\Users\dom\AppData\Roaming\Kodi\cache
+13:20:47.123 T:1436  NOTICE: special://logpath/ is mapped to: C:\Users\dom\AppData\Roaming\Kodi\
+13:20:47.123 T:1436  NOTICE: The executable running is: C:\Program Files (x86)\Kodi\kodi.exe
+13:20:47.140 T:1436  NOTICE: Local hostname: DESKTOP-4AVP9FQ
+13:20:47.140 T:1436  NOTICE: Log File is located: C:\Users\dom\AppData\Roaming\Kodi\/kodi.log
+13:20:47.140 T:1436  NOTICE: -----------------------------------------------------------------------
+13:20:47.156 T:1436  NOTICE: load settings...
+13:20:47.169 T:1436 WARNING: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
+13:20:47.169 T:1436 WARNING: CSettingString: unknown options filler "timezones" of "locale.timezone"
+13:20:47.176 T:1436  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+13:20:47.176 T:1436  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+13:20:47.176 T:1436  NOTICE: Default Video Player: VideoPlayer
+13:20:47.176 T:1436  NOTICE: Default Audio Player: paplayer
+13:20:47.176 T:1436  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+13:20:47.176 T:1436  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+13:20:47.176 T:1436  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+13:20:47.183 T:1436  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+13:20:47.184 T:1436  NOTICE: Loaded playercorefactory configuration
+13:20:47.184 T:1436  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+13:20:47.184 T:1436  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+13:20:47.204 T:1436  NOTICE: Running database version Addons27
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository frenchdj.repository
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository nux007.repository
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repo.plugin.video.9anime
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.Agent
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.Brettusrepo
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.CanalNereo
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.Cypherslocker
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.Diamond-Wizard-Repo
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.Fido
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.Firestickplusman
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.GearsTV
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.GenTec
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.HalowTV
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.MatsBuilds
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.Rising.Tides
+13:20:47.454 T:1436  NOTICE: ADDONS: Using repository repository.Rockcrusher
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.Sarcasm
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.SpinzTV
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.StarTec
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.StreamArmy
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.Wherethemonsterslive
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.addonBrasil
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.aeon.nox.silvo
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.aj
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.beta.emby.kodi
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.bookmarklite
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.brettus.repo
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.cazlo
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.cdrepo
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.chepre
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.cherrytv
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.coldkeys
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.dobre
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.entertainmentrepo
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.exodus
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.ff
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.filmkodi.com
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.foliver
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.homik
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.huball
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.husham.com
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.illuminati
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.jesusboxtv
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.jsergio
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.kimshiu
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.kodibae
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.kodikaraoke
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.kodil
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.kodiver
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.kodiwpigulce.pl
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.loop
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.marcelveldt
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.maverickrepo
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.megatron
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.merlin
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.metalchris
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.misfitmods
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.mods-kodi
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.mrandmrssmith
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.netflix
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.notoco
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.phantom
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.playersklub
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.podpis
+13:20:47.455 T:1436  NOTICE: ADDONS: Using repository repository.polishteam
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.ptom
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.q
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.razer
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.sanctuary
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.sd-xbmc.org
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.seppius
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.simplycaz
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.skymashitv
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.smoothstreams
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.spoyser
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.steptoes
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.streamhub
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.supremacy
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.sweetwork
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.thevibe
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.tknorris.release
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.toetu
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.tva.common
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.ukodi1
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.ukturk
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.universalscrapers
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.unofficialsportsdevil
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.urepo
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.vectordroidrepo
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.whitedevil
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.xbmc-avigdork
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.xbmc-israel
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.xbmc.org
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.xbmchub
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.ytplugin
+13:20:47.456 T:1436  NOTICE: ADDONS: Using repository repository.3rd-party.Resolvers
+13:20:47.544 T:7048  NOTICE: Found 2 Lists of Devices
+13:20:47.544 T:7048  NOTICE: Enumerated DIRECTSOUND devices:
+13:20:47.544 T:7048  NOTICE:     Device 1
+13:20:47.544 T:7048  NOTICE:         m_deviceName      : {FE211ECE-0E1F-4B92-BBC0-E23A87FB1179}
+13:20:47.544 T:7048  NOTICE:         m_displayName     : Speakers - Głośniki (Realtek High Definition Audio)
+13:20:47.544 T:7048  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (Realtek High Definition Audio)
+13:20:47.544 T:7048  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+13:20:47.544 T:7048  NOTICE:         m_channels        : FL,FR
+13:20:47.544 T:7048  NOTICE:         m_sampleRates     : 48000
+13:20:47.545 T:7048  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+13:20:47.545 T:7048  NOTICE:         m_streamTypes     : No passthrough capabilities
+13:20:47.545 T:7048  NOTICE:     Device 2
+13:20:47.545 T:7048  NOTICE:         m_deviceName      : default
+13:20:47.545 T:7048  NOTICE:         m_displayName     : default
+13:20:47.545 T:7048  NOTICE:         m_displayNameExtra:
+13:20:47.545 T:7048  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+13:20:47.545 T:7048  NOTICE:         m_channels        : FL,FR
+13:20:47.545 T:7048  NOTICE:         m_sampleRates     : 48000
+13:20:47.545 T:7048  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+13:20:47.545 T:7048  NOTICE:         m_streamTypes     : No passthrough capabilities
+13:20:47.545 T:7048  NOTICE: Enumerated WASAPI devices:
+13:20:47.545 T:7048  NOTICE:     Device 1
+13:20:47.545 T:7048  NOTICE:         m_deviceName      : {FE211ECE-0E1F-4B92-BBC0-E23A87FB1179}
+13:20:47.545 T:7048  NOTICE:         m_displayName     : Speakers - Głośniki (Realtek High Definition Audio)
+13:20:47.545 T:7048  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (Realtek High Definition Audio)
+13:20:47.545 T:7048  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+13:20:47.545 T:7048  NOTICE:         m_channels        : FL,FR
+13:20:47.545 T:7048  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+13:20:47.545 T:7048  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+13:20:47.545 T:7048  NOTICE:         m_streamTypes     : No passthrough capabilities
+13:20:47.545 T:7048  NOTICE:     Device 2
+13:20:47.545 T:7048  NOTICE:         m_deviceName      : default
+13:20:47.545 T:7048  NOTICE:         m_displayName     : default
+13:20:47.545 T:7048  NOTICE:         m_displayNameExtra:
+13:20:47.545 T:7048  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+13:20:47.545 T:7048  NOTICE:         m_channels        : FL,FR
+13:20:47.545 T:7048  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+13:20:47.545 T:7048  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+13:20:47.545 T:7048  NOTICE:         m_streamTypes     : No passthrough capabilities
+13:20:47.620 T:1436  NOTICE: Found screen: Generic PnP Monitor on Intel(R) HD Graphics 4000, adapter 0.
+13:20:47.620 T:1436  NOTICE: Primary mode: 1366x768@ 60.00 - Full Screen
+13:20:47.621 T:1436  NOTICE: Additional mode: 320x200@ 60.00 - Full Screen
+13:20:47.622 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.622 T:1436  NOTICE: Additional mode: 320x240@ 60.00 - Full Screen
+13:20:47.623 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.623 T:1436  NOTICE: Additional mode: 400x300@ 60.00 - Full Screen
+13:20:47.624 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.624 T:1436  NOTICE: Additional mode: 512x384@ 60.00 - Full Screen
+13:20:47.624 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.624 T:1436  NOTICE: Additional mode: 640x400@ 60.00 - Full Screen
+13:20:47.625 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.625 T:1436  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+13:20:47.626 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.626 T:1436  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+13:20:47.626 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.626 T:1436  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+13:20:47.627 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.627 T:1436  NOTICE: Additional mode: 1280x600@ 60.00 - Full Screen
+13:20:47.628 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.628 T:1436  NOTICE: Additional mode: 1280x720@ 60.00 - Full Screen
+13:20:47.628 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.628 T:1436  NOTICE: Additional mode: 1280x768@ 60.00 - Full Screen
+13:20:47.629 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.629 T:1436  NOTICE: Additional mode: 1360x768@ 60.00 - Full Screen
+13:20:47.630 T:1436  NOTICE: Previous line repeats 2 times.
+13:20:47.630 T:1436  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+13:20:47.630 T:1436  NOTICE: Checking resolution 16
+13:20:47.972 T:1436   ERROR: C:\Users\dom\AppData\Roaming\Kodi\addons\plugin.close.kodi\resources\language\English\strings.xml Doesn't contain <strings>
+13:20:48.218 T:1164  NOTICE: Running database version Addons27
+13:20:48.221 T:1164  NOTICE: Running database version ViewModes6
+13:20:48.223 T:1164  NOTICE: Running database version Textures13
+13:20:48.226 T:1164  NOTICE: Running database version MyMusic60
+13:20:48.231 T:1164  NOTICE: Running database version MyVideos107
+13:20:48.233 T:1164  NOTICE: Running database version TV29
+13:20:48.235 T:1164  NOTICE: Running database version Epg11
+13:20:48.345 T:1436   ERROR: Couldn't load font name: lyr2b(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+13:20:48.352 T:1436   ERROR: Couldn't load font name: lyr3(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:20:48.359 T:1436   ERROR: Couldn't load font name: lyr3b(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+13:20:48.370 T:1436   ERROR: Couldn't load font name: lyr5b(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+13:20:48.378 T:1436   ERROR: Couldn't load font name: lyr7(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:20:48.385 T:1436   ERROR: Couldn't load font name: lyr7a(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:20:48.393 T:1436   ERROR: Couldn't load font name: lyr7b(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:20:48.401 T:1436   ERROR: Couldn't load font name: lyr7c(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+13:20:48.410 T:1436   ERROR: Couldn't load font name: lyr8b(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+13:20:48.412 T:1436   ERROR: Couldn't load font name: lyr9b(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+13:20:48.426 T:1436   ERROR: Couldn't load font name: lyr12d(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+13:20:48.427 T:1436   ERROR: Couldn't load font name: lyr13b(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+13:20:48.428 T:1436   ERROR: Couldn't load font name: lyr14(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:20:48.438 T:1436   ERROR: Couldn't load font name: lyr15b(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+13:20:48.448 T:1436   ERROR: Couldn't load font name: lyrsh38(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+13:20:48.458 T:1436   ERROR: Couldn't load font name: lyrsh50(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+13:20:48.468 T:1436   ERROR: Couldn't load font name: lyrsh72(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+13:20:48.646 T:1436   ERROR: Couldn't load font name: fontCDartist(permanentmarker.ttf), trying to substitute arial.ttf
+13:20:48.646 T:1436   ERROR: Couldn't load font name: fontCDalbum(permanentmarker.ttf), trying to substitute arial.ttf
+13:20:48.654 T:1436   ERROR: Couldn't load font name: fontScriptLyrics(gnyrwn971.ttf), trying to substitute arial.ttf
+13:20:49.109 T:1436 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+13:20:49.730 T:1436  NOTICE: initialize done
+13:20:49.730 T:1436  NOTICE: Running the application...
+13:20:49.732 T:1436  NOTICE: starting upnp client
+13:20:49.742 T:6580  NOTICE: ES: Starting UDP Event server on port 9777
+13:20:49.742 T:6580  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+13:20:50.598 T:7668   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\dom\AppData\Roaming\Kodi\cache\plugin.video.youtube\
+13:20:53.080 T:6376  NOTICE: Skin Helper Service --> Starting WebService on port 52307
+13:20:53.080 T:7636  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 started
+13:20:55.102 T:3552  NOTICE: Skin Helper Widgets --> Backgroundservice started
+13:20:56.030 T:9532  NOTICE: [FanFilm] ######################### FANFILM ############################
+13:20:56.030 T:9532  NOTICE: [FanFilm] ####### CURRENT FANFILM VERSIONS REPORT ######################
+13:20:56.030 T:9532  NOTICE: [FanFilm] ### FANFILM PLUGIN VERSION: 2018.09.01.0 ###
+13:20:56.030 T:9532  NOTICE: [FanFilm] ### FANFILM MEDIA VERSION: 2018.07.17.0 ###
+13:20:56.030 T:9532  NOTICE: [FanFilm] ###############################################################
+13:20:56.031 T:1812  NOTICE: script.grab.fanart: Grab Fanart Service Started
+13:21:03.145 T:8836  NOTICE: Polish Team Wizard: 2018-09-30 13:21:03.145000
+13:21:03.978 T:10768 WARNING: CPythonInvoker(21): Script invoked without an addon. Adding all addon modules installed to python path as fallback. This behaviour will be removed in future version.
+13:21:04.254 T:8836  NOTICE: Polish Team Wizard: Continuing Start Up Script
+13:21:04.321 T:8836  NOTICE: Polish Team Wizard: [Path Check] Started
+13:21:04.348 T:8836  NOTICE: Polish Team Wizard: [Path Check] Good!
+13:21:04.359 T:8836  NOTICE: Polish Team Wizard: [Auto Install Repo] Started
+13:21:04.365 T:8836  NOTICE: Polish Team Wizard: [Auto Install Repo] Repository already installed
+13:21:04.368 T:8836  NOTICE: Polish Team Wizard: [Auto Update Wizard] Started
+13:21:05.236 T:8836  NOTICE: Polish Team Wizard: [Auto Update Wizard] Brak nowszej wersji vFalse
+13:21:05.245 T:8836  NOTICE: Polish Team Wizard: [Notifications] Started
+13:21:05.251 T:8836  NOTICE: Polish Team Wizard: [Notifications] Not Enabled
+13:21:05.260 T:8836  NOTICE: Polish Team Wizard: [Installed Check] Started
+13:21:05.265 T:8836  NOTICE: Polish Team Wizard: [Installed Check] Not Enabled
+13:21:05.272 T:8836  NOTICE: Polish Team Wizard: [Build Check] Started
+13:21:05.281 T:8836  NOTICE: Polish Team Wizard: [Build Check] Build Installed
+13:21:05.313 T:8836  NOTICE: Polish Team Wizard: [Build Check] Build Installed: Checking Updates
+13:21:05.576 T:8836  NOTICE: Polish Team Wizard: [Check Updates] [Installed Version: 1.9.5] [Current Version: 1.9.5]
+13:21:05.585 T:8836  NOTICE: Polish Team Wizard: [Trakt Data] Started
+13:21:05.595 T:8836  NOTICE: Polish Team Wizard: [Trakt Data] Not Enabled
+13:21:05.601 T:8836  NOTICE: Polish Team Wizard: [Real Debrid Data] Started
+13:21:05.612 T:8836  NOTICE: Polish Team Wizard: [Real Debrid Data] Not Enabled
+13:21:05.618 T:8836  NOTICE: Polish Team Wizard: [Login Data] Started
+13:21:05.629 T:8836  NOTICE: Polish Team Wizard: [Login Data] Not Enabled
+13:21:05.636 T:8836  NOTICE: Polish Team Wizard: [Auto Clean Up] Started
+13:21:05.663 T:8836  NOTICE: Polish Team Wizard: [Auto Clean Up] Cache: On
+13:21:11.586 T:8836  NOTICE: Polish Team Wizard: [Success] cleared 1 files from C:\Users\dom\AppData\Roaming\Kodi\cache\temp
+13:21:11.593 T:8836  NOTICE: Polish Team Wizard: [Auto Clean Up] Old Thumbs: Off
+13:21:11.597 T:8836  NOTICE: Polish Team Wizard: [Auto Clean Up] Packages: On
+13:21:11.800 T:672  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+13:21:11.851 T:672  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+13:21:11.979 T:672  NOTICE: metahandler: No SQLite rows requiring update
+13:21:13.464 T:11332  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+13:21:13.555 T:11332  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+13:21:13.723 T:11332  NOTICE: metahandler: No SQLite rows requiring update
+13:21:16.557 T:12220  NOTICE: AddOnLog: PVR IPTV Simple Client: Playlist file path is not configured. Channels not loaded.
+13:21:20.008 T:11000  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+13:21:20.085 T:11000  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+13:21:20.172 T:11000  NOTICE: metahandler: No SQLite rows requiring update
+13:21:22.294 T:11396  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+13:21:22.340 T:11396  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+13:21:22.353 T:11396  NOTICE: metahandler: No SQLite rows requiring update
+13:21:23.619 T:3684  NOTICE: EPG::CEpgContainer::Start - EPG thread started
+13:21:28.138 T:1164   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/a/a94a3acc.png
+13:21:28.404 T:5772   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/b/bf2ad694.png
+13:21:29.483 T:12220   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/c/c7b6e537.jpg
+13:21:29.483 T:3684   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/8/87a39a69.jpg
+13:21:29.485 T:1164   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/2/21475ef7.png
+13:21:31.853 T:8152   ERROR: C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.urllib3\lib\urllib3\connectionpool.py:858: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.io/en/latest/advanced-usage.html#ssl-warnings
+                                              InsecureRequestWarning)
+13:21:33.877 T:1436   ERROR: Previous line repeats 4 times.
+13:21:33.877 T:1436  NOTICE: VideoPlayer: Opening: https://ssl5.cdn4.us/ingest06/29345.m3u8?sf=Qmt1Y1pqUllWOA==&token=avWuq2zi6N5d4NFiRDhAWg&expires=1538313692&rnd=29345|Referer=https%3A%2F%2Ftelerium.tv%2Fembed%2F29345.html&User-Agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0&Origin=https://telerium.tv&Connection=keep-alive&Accept=*/*
+13:21:33.878 T:1436 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+13:21:33.957 T:1436   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 104 for 1.
+13:21:33.957 T:1436   ERROR: DXVA::CProcessorHD::IsFormatSupported: Unsupported format 105 for 1.
+13:21:33.958 T:3032  NOTICE: Creating InputStream
+13:21:34.216 T:3032  NOTICE: Creating Demuxer
+13:21:35.143 T:3032  NOTICE: Opening stream: 0 source: 256
+13:21:35.143 T:3032  NOTICE: Creating video codec with codec id: 28
+13:21:35.162 T:3032  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+13:21:35.162 T:3032  NOTICE: Creating video thread
+13:21:35.162 T:3032  NOTICE: Opening stream: 1 source: 256
+13:21:35.163 T:3032  NOTICE: Finding audio codec for: 86018
+13:21:35.163 T:11320  NOTICE: running thread: video_thread
+13:21:35.164 T:3032  NOTICE: Creating audio thread
+13:21:35.165 T:6668  NOTICE: running thread: CVideoPlayerAudio::Process()
+13:21:35.186 T:11320  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating DXVA(640x360)
+13:21:35.227 T:6668  NOTICE: Creating audio stream (codec id: 86018, channels: 2, sample rate: 48000, no pass-through)
+13:21:35.274 T:11320   ERROR: CDVDVideoCodecFFmpeg::Decode - avcodec_decode_video returned failure
+13:21:35.393 T:7636   ERROR: Previous line repeats 70 times.
+13:21:35.393 T:7636   ERROR: XFILE::CFile::Delete - Error deleting file C:\Users\dom\AppData\Roaming\Kodi\userdata\addon_data\script.module.simplecache\\simplecache.db
+13:21:35.667 T:1436  NOTICE: D3D: rendering method forced to DXVA processor
+13:21:35.667 T:1436  NOTICE: DXVA::CProcessorHD::InitProcessor: Supported deinterlace methods: Blend:yes, Bob:yes, Adaptive:yes, MoComp:yes.
+13:21:35.781 T:1436 WARNING: CWinRenderer::UpdateVideoFilter - chosen scaling method 1 is not supported by renderer
+13:21:36.500 T:11320 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+13:21:37.590 T:11320 WARNING: Previous line repeats 2 times.
+13:21:37.590 T:11320  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 40000
+13:21:38.099 T:11320 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+13:21:42.674 T:1436 WARNING: Previous line repeats 2 times.
+13:21:42.674 T:1436  NOTICE: CVideoPlayer::CloseFile()
+13:21:42.674 T:1436  NOTICE: VideoPlayer: waiting for threads to exit
+13:21:42.678 T:3032  NOTICE: CVideoPlayer::OnExit()
+13:21:42.678 T:3032  NOTICE: Closing stream player 1
+13:21:42.678 T:3032  NOTICE: Waiting for audio thread to exit
+13:21:42.697 T:6668  NOTICE: thread end: CVideoPlayerAudio::OnExit()
+13:21:42.697 T:3032  NOTICE: Closing audio device
+13:21:42.713 T:3032  NOTICE: Deleting audio codec
+13:21:42.714 T:3032  NOTICE: Closing stream player 2
+13:21:42.714 T:3032  NOTICE: waiting for video thread to exit
+13:21:42.747 T:11320  NOTICE: thread end: video_thread
+13:21:42.747 T:3032  NOTICE: deleting video codec
+13:21:42.748 T:3032  NOTICE: DXVA::CDecoder::Close - closing decoder
+13:21:42.748 T:3032  NOTICE: DXVA::Close - closing decoder context
+13:21:42.752 T:1436  NOTICE: VideoPlayer: finished waiting
+13:21:42.803 T:1436  NOTICE: CVideoPlayer::CloseFile()
+13:21:42.803 T:1436  NOTICE: VideoPlayer: waiting for threads to exit
+13:21:42.803 T:1436  NOTICE: VideoPlayer: finished waiting
+13:21:42.803 T:1436  NOTICE: CVideoPlayer::CloseFile()
+13:21:42.803 T:1436  NOTICE: VideoPlayer: waiting for threads to exit
+13:21:42.803 T:1436  NOTICE: VideoPlayer: finished waiting
+13:21:48.929 T:1436  NOTICE: Storing total System Uptime
+13:21:48.931 T:1436  NOTICE: Saving settings
+13:21:48.941 T:1436  NOTICE: Saving skin settings
+13:21:48.951 T:1436  NOTICE: stop all
+13:21:49.024 T:1436  NOTICE: stop player
+13:21:49.024 T:1436  NOTICE: ES: Stopping event server
+13:21:49.024 T:1436  NOTICE: stopping upnp
+13:21:49.774 T:6580  NOTICE: ES: UDP Event server stopped
+13:21:49.959 T:1436  NOTICE: clean cached files!
+13:21:50.614 T:3552  NOTICE: Skin Helper Widgets --> Backgroundservice stopped
+13:21:55.629 T:1436   ERROR: CPythonInvoker(8, C:\Users\dom\AppData\Roaming\Kodi\addons\script.skin.helper.service\service.py): script didn't stop in 5 seconds - let's kill it
+13:21:55.648 T:1436  NOTICE: closing down remote control service
+13:21:55.648 T:1436  NOTICE: stopped
+13:21:55.828 T:7636   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <type 'exceptions.SystemExit'>
+                                            Traceback (most recent call last):
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 78, in onNotification
+                                                self.set_video_properties(mediatype, dbid)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.skin.helper.service\resources\lib\kodi_monitor.py", line 192, in set_video_properties
+                                                details = self.metadatautils.extend_dict(details, self.metadatautils.get_top250_rating(li_imdb))
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.metadatautils\lib\metadatautils.py", line 198, in get_top250_rating
+                                                return self.imdb.get_top250_rating(imdb_id)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.simplecache\lib\simplecache.py", line 284, in decorated
+                                                result = func(*args, **kwargs)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.metadatautils\lib\helpers\imdb.py", line 34, in get_top250_rating
+                                                return {"IMDB.Top250": self.get_top250_db().get(imdb_id, 0)}
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.simplecache\lib\simplecache.py", line 284, in decorated
+                                                result = func(*args, **kwargs)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.metadatautils\lib\helpers\imdb.py", line 59, in get_top250_db
+                                                self.write_kodidb(results)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.metadatautils\lib\helpers\imdb.py", line 65, in write_kodidb
+                                                kodi_movie = self.kodidb.movie_by_imdbid(imdb_id)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.metadatautils\lib\helpers\kodidb.py", line 34, in movie_by_imdbid
+                                                all_items = self.get_json('VideoLibrary.GetMovies', fields=["uniqueid"], returntype="movies")
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.metadatautils\lib\helpers\kodidb.py", line 275, in get_json
+                                                json_object = json.loads(json_response.decode('utf-8', 'replace'))
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.simplejson\lib\simplejson\__init__.py", line 488, in loads
+                                                return _default_decoder.decode(s)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.simplejson\lib\simplejson\decoder.py", line 370, in decode
+                                                obj, end = self.raw_decode(s)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.simplejson\lib\simplejson\decoder.py", line 389, in raw_decode
+                                                return self.scan_once(s, idx=_w(s, idx).end())
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.simplejson\lib\simplejson\scanner.py", line 122, in scan_once
+                                                return _scan_once(string, idx)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.simplejson\lib\simplejson\scanner.py", line 93, in _scan_once
+                                                _scan_once, object_hook, object_pairs_hook, memo)
+                                            SystemExit
+                                            -->End of Python script error report<--
+13:21:55.829 T:5788   ERROR: Exception in thread CP Server Thread-5:
+                                            Traceback (most recent call last):
+                                              File "C:\Program Files (x86)\Kodi\system\python\Lib\threading.py", line 801, in __bootstrap_inner
+                                                self.run()
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.cherrypy\lib\cheroot\workers\threadpool.py", line 116, in run
+                                                self.server.interrupt = ex
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.cherrypy\lib\cheroot\server.py", line 1642, in _set_interrupt
+                                                self.stop()
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.cherrypy\lib\cheroot\server.py", line 1691, in stop
+                                                self.requests.stop(self.shutdown_timeout)
+                                              File "C:\Users\dom\AppData\Roaming\Kodi\addons\script.module.cherrypy\lib\cheroot\workers\threadpool.py", line 221, in stop
+                                                self._queue.put(_SHUTDOWNREQUEST)
+                                              File "C:\Program Files (x86)\Kodi\system\python\Lib\Queue.py", line 140, in put
+                                                self.not_full.release()
+                                            error: release unlocked lock
+13:21:55.850 T:1436  NOTICE: destroy
+13:21:55.850 T:1436  NOTICE: unload skin
+13:21:55.937 T:7636  NOTICE: Skin Helper Service --> Shutdown requested !
+13:21:55.937 T:7636  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 stopped
+13:21:59.361 T:1436  NOTICE: unload sections
+13:21:59.372 T:1436  NOTICE: special://profile/ is mapped to: special://masterprofile/
+13:21:59.372 T:1436  NOTICE: PVRManager - stopping
+13:21:59.449 T:1436  NOTICE: application stopped...

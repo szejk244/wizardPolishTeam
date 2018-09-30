@@ -1,0 +1,347 @@
+﻿12:47:02.351 T:11740  NOTICE: special://profile/ is mapped to: special://masterprofile/
+12:47:02.351 T:11740  NOTICE: -----------------------------------------------------------------------
+12:47:02.351 T:11740  NOTICE: Starting Kodi (17.6 Git:20171114-a9a7a20). Platform: Windows NT x86 32-bit
+12:47:02.351 T:11740  NOTICE: Using Release Kodi x32 build
+12:47:02.351 T:11740  NOTICE: Kodi compiled Dec 10 2017 by MSVC 190024215 for Windows NT x86 32-bit version 10.0 (0x0A000000)
+12:47:02.352 T:11740  NOTICE: Running on Acer Aspire E1-570 with Windows 10, kernel: Windows NT x86 64-bit version 10.0
+12:47:02.354 T:11740  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+12:47:02.354 T:11740  NOTICE: Host CPU: Unknown, 4 cores available
+12:47:02.356 T:11740  NOTICE: Desktop Resolution: 1366x768 32Bit at 60Hz
+12:47:02.356 T:11740  NOTICE: Running with restricted rights
+12:47:02.362 T:11740  NOTICE: Aero is enabled
+12:47:02.362 T:11740  NOTICE: special://xbmc/ is mapped to: C:\Program Files (x86)\Kodi
+12:47:02.362 T:11740  NOTICE: special://xbmcbin/ is mapped to: C:\Program Files (x86)\Kodi
+12:47:02.362 T:11740  NOTICE: special://xbmcbinaddons/ is mapped to: C:\Program Files (x86)\Kodi/addons
+12:47:02.362 T:11740  NOTICE: special://masterprofile/ is mapped to: C:\Users\dom\AppData\Roaming\Kodi\userdata
+12:47:02.362 T:11740  NOTICE: special://home/ is mapped to: C:\Users\dom\AppData\Roaming\Kodi\
+12:47:02.362 T:11740  NOTICE: special://temp/ is mapped to: C:\Users\dom\AppData\Roaming\Kodi\cache
+12:47:02.362 T:11740  NOTICE: special://logpath/ is mapped to: C:\Users\dom\AppData\Roaming\Kodi\
+12:47:02.362 T:11740  NOTICE: The executable running is: C:\Program Files (x86)\Kodi\kodi.exe
+12:47:02.379 T:11740  NOTICE: Local hostname: DESKTOP-4AVP9FQ
+12:47:02.379 T:11740  NOTICE: Log File is located: C:\Users\dom\AppData\Roaming\Kodi\/kodi.log
+12:47:02.379 T:11740  NOTICE: -----------------------------------------------------------------------
+12:47:02.395 T:11740  NOTICE: load settings...
+12:47:02.412 T:11740 WARNING: CSettingString: unknown options filler "timezonecountries" of "locale.timezonecountry"
+12:47:02.412 T:11740 WARNING: CSettingString: unknown options filler "timezones" of "locale.timezone"
+12:47:02.418 T:11740  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+12:47:02.419 T:11740  NOTICE: No settings file to load (special://masterprofile/advancedsettings.xml)
+12:47:02.419 T:11740  NOTICE: Default Video Player: VideoPlayer
+12:47:02.419 T:11740  NOTICE: Default Audio Player: paplayer
+12:47:02.419 T:11740  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+12:47:02.419 T:11740  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+12:47:02.419 T:11740  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+12:47:02.425 T:11740  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+12:47:02.426 T:11740  NOTICE: Loaded playercorefactory configuration
+12:47:02.426 T:11740  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+12:47:02.426 T:11740  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+12:47:02.448 T:11740  NOTICE: Running database version Addons27
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository frenchdj.repository
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository nux007.repository
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository repo.plugin.video.9anime
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository repository.Agent
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository repository.Brettusrepo
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository repository.CanalNereo
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository repository.Cypherslocker
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository repository.Diamond-Wizard-Repo
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository repository.Fido
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository repository.Firestickplusman
+12:47:02.706 T:11740  NOTICE: ADDONS: Using repository repository.GearsTV
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.GenTec
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.HalowTV
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.MatsBuilds
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.Rising.Tides
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.Rockcrusher
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.Sarcasm
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.SpinzTV
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.StarTec
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.StreamArmy
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.Wherethemonsterslive
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.addonBrasil
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.aeon.nox.silvo
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.aj
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.beta.emby.kodi
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.bookmarklite
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.brettus.repo
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.cazlo
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.cdrepo
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.chepre
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.cherrytv
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.coldkeys
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.dobre
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.entertainmentrepo
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.exodus
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.ff
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.filmkodi.com
+12:47:02.707 T:11740  NOTICE: ADDONS: Using repository repository.foliver
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.homik
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.huball
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.husham.com
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.illuminati
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.jesusboxtv
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.jsergio
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.kimshiu
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.kodibae
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.kodikaraoke
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.kodil
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.kodiver
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.kodiwpigulce.pl
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.loop
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.marcelveldt
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.maverickrepo
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.megatron
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.merlin
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.metalchris
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.misfitmods
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.mods-kodi
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.mrandmrssmith
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.netflix
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.notoco
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.phantom
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.playersklub
+12:47:02.708 T:11740  NOTICE: ADDONS: Using repository repository.podpis
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.polishteam
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.ptom
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.q
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.razer
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.sanctuary
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.sd-xbmc.org
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.seppius
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.simplycaz
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.skymashitv
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.smoothstreams
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.spoyser
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.steptoes
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.streamhub
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.supremacy
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.sweetwork
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.thevibe
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.tknorris.release
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.toetu
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.tva.common
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.ukodi1
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.ukturk
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.universalscrapers
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.unofficialsportsdevil
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.urepo
+12:47:02.709 T:11740  NOTICE: ADDONS: Using repository repository.vectordroidrepo
+12:47:02.710 T:11740  NOTICE: ADDONS: Using repository repository.whitedevil
+12:47:02.710 T:11740  NOTICE: ADDONS: Using repository repository.xbmc-avigdork
+12:47:02.710 T:11740  NOTICE: ADDONS: Using repository repository.xbmc-israel
+12:47:02.710 T:11740  NOTICE: ADDONS: Using repository repository.xbmc.org
+12:47:02.710 T:11740  NOTICE: ADDONS: Using repository repository.xbmchub
+12:47:02.710 T:11740  NOTICE: ADDONS: Using repository repository.ytplugin
+12:47:02.710 T:11740  NOTICE: ADDONS: Using repository repository.3rd-party.Resolvers
+12:47:02.806 T:12420  NOTICE: Found 2 Lists of Devices
+12:47:02.806 T:12420  NOTICE: Enumerated DIRECTSOUND devices:
+12:47:02.806 T:12420  NOTICE:     Device 1
+12:47:02.806 T:12420  NOTICE:         m_deviceName      : {FE211ECE-0E1F-4B92-BBC0-E23A87FB1179}
+12:47:02.806 T:12420  NOTICE:         m_displayName     : Speakers - Głośniki (Realtek High Definition Audio)
+12:47:02.806 T:12420  NOTICE:         m_displayNameExtra: DIRECTSOUND: Głośniki (Realtek High Definition Audio)
+12:47:02.806 T:12420  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:47:02.806 T:12420  NOTICE:         m_channels        : FL,FR
+12:47:02.806 T:12420  NOTICE:         m_sampleRates     : 48000
+12:47:02.806 T:12420  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+12:47:02.806 T:12420  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:47:02.806 T:12420  NOTICE:     Device 2
+12:47:02.806 T:12420  NOTICE:         m_deviceName      : default
+12:47:02.806 T:12420  NOTICE:         m_displayName     : default
+12:47:02.806 T:12420  NOTICE:         m_displayNameExtra:
+12:47:02.806 T:12420  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:47:02.806 T:12420  NOTICE:         m_channels        : FL,FR
+12:47:02.806 T:12420  NOTICE:         m_sampleRates     : 48000
+12:47:02.806 T:12420  NOTICE:         m_dataFormats     : AE_FMT_FLOAT
+12:47:02.806 T:12420  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:47:02.806 T:12420  NOTICE: Enumerated WASAPI devices:
+12:47:02.806 T:12420  NOTICE:     Device 1
+12:47:02.806 T:12420  NOTICE:         m_deviceName      : {FE211ECE-0E1F-4B92-BBC0-E23A87FB1179}
+12:47:02.806 T:12420  NOTICE:         m_displayName     : Speakers - Głośniki (Realtek High Definition Audio)
+12:47:02.806 T:12420  NOTICE:         m_displayNameExtra: WASAPI: Głośniki (Realtek High Definition Audio)
+12:47:02.806 T:12420  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:47:02.806 T:12420  NOTICE:         m_channels        : FL,FR
+12:47:02.807 T:12420  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+12:47:02.807 T:12420  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+12:47:02.807 T:12420  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:47:02.807 T:12420  NOTICE:     Device 2
+12:47:02.807 T:12420  NOTICE:         m_deviceName      : default
+12:47:02.807 T:12420  NOTICE:         m_displayName     : default
+12:47:02.807 T:12420  NOTICE:         m_displayNameExtra:
+12:47:02.807 T:12420  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:47:02.807 T:12420  NOTICE:         m_channels        : FL,FR
+12:47:02.807 T:12420  NOTICE:         m_sampleRates     : 192000,96000,48000,44100
+12:47:02.807 T:12420  NOTICE:         m_dataFormats     : AE_FMT_S24NE4MSB,AE_FMT_S16NE,AE_FMT_S16LE,AE_FMT_S16BE
+12:47:02.807 T:12420  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:47:03.530 T:11740  NOTICE: Found screen: Generic PnP Monitor on Intel(R) HD Graphics 4000, adapter 0.
+12:47:03.531 T:11740  NOTICE: Primary mode: 1366x768@ 60.00 - Full Screen
+12:47:03.531 T:11740  NOTICE: Additional mode: 320x200@ 60.00 - Full Screen
+12:47:03.532 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.532 T:11740  NOTICE: Additional mode: 320x240@ 60.00 - Full Screen
+12:47:03.533 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.533 T:11740  NOTICE: Additional mode: 400x300@ 60.00 - Full Screen
+12:47:03.533 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.533 T:11740  NOTICE: Additional mode: 512x384@ 60.00 - Full Screen
+12:47:03.534 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.534 T:11740  NOTICE: Additional mode: 640x400@ 60.00 - Full Screen
+12:47:03.535 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.535 T:11740  NOTICE: Additional mode: 640x480@ 60.00 - Full Screen
+12:47:03.536 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.536 T:11740  NOTICE: Additional mode: 800x600@ 60.00 - Full Screen
+12:47:03.536 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.536 T:11740  NOTICE: Additional mode: 1024x768@ 60.00 - Full Screen
+12:47:03.537 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.537 T:11740  NOTICE: Additional mode: 1280x600@ 60.00 - Full Screen
+12:47:03.537 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.537 T:11740  NOTICE: Additional mode: 1280x720@ 60.00 - Full Screen
+12:47:03.538 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.538 T:11740  NOTICE: Additional mode: 1280x768@ 60.00 - Full Screen
+12:47:03.539 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.539 T:11740  NOTICE: Additional mode: 1360x768@ 60.00 - Full Screen
+12:47:03.539 T:11740  NOTICE: Previous line repeats 2 times.
+12:47:03.539 T:11740  NOTICE: Additional mode: 1366x768@ 60.00 - Full Screen
+12:47:03.540 T:11740  NOTICE: Checking resolution 16
+12:47:03.898 T:11740   ERROR: C:\Users\dom\AppData\Roaming\Kodi\addons\plugin.close.kodi\resources\language\English\strings.xml Doesn't contain <strings>
+12:47:04.179 T:6164  NOTICE: Running database version Addons27
+12:47:04.182 T:6164  NOTICE: Running database version ViewModes6
+12:47:04.185 T:6164  NOTICE: Running database version Textures13
+12:47:04.188 T:6164  NOTICE: Running database version MyMusic60
+12:47:04.194 T:6164  NOTICE: Running database version MyVideos107
+12:47:04.196 T:6164  NOTICE: Running database version TV29
+12:47:04.199 T:6164  NOTICE: Running database version Epg11
+12:47:04.320 T:11740   ERROR: Couldn't load font name: lyr2b(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+12:47:04.327 T:11740   ERROR: Couldn't load font name: lyr3(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+12:47:04.335 T:11740   ERROR: Couldn't load font name: lyr3b(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+12:47:04.345 T:11740   ERROR: Couldn't load font name: lyr5b(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+12:47:04.353 T:11740   ERROR: Couldn't load font name: lyr7(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+12:47:04.361 T:11740   ERROR: Couldn't load font name: lyr7a(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+12:47:04.370 T:11740   ERROR: Couldn't load font name: lyr7b(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+12:47:04.379 T:11740   ERROR: Couldn't load font name: lyr7c(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+12:47:04.386 T:11740   ERROR: Couldn't load font name: lyr8b(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+12:47:04.388 T:11740   ERROR: Couldn't load font name: lyr9b(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+12:47:04.402 T:11740   ERROR: Couldn't load font name: lyr12d(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+12:47:04.403 T:11740   ERROR: Couldn't load font name: lyr13b(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+12:47:04.404 T:11740   ERROR: Couldn't load font name: lyr14(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+12:47:04.412 T:11740   ERROR: Couldn't load font name: lyr15b(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+12:47:04.421 T:11740   ERROR: Couldn't load font name: lyrsh38(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+12:47:04.430 T:11740   ERROR: Couldn't load font name: lyrsh50(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+12:47:04.439 T:11740   ERROR: Couldn't load font name: lyrsh72(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+12:47:04.621 T:11740   ERROR: Couldn't load font name: fontCDartist(permanentmarker.ttf), trying to substitute arial.ttf
+12:47:04.622 T:11740   ERROR: Couldn't load font name: fontCDalbum(permanentmarker.ttf), trying to substitute arial.ttf
+12:47:04.630 T:11740   ERROR: Couldn't load font name: fontScriptLyrics(gnyrwn971.ttf), trying to substitute arial.ttf
+12:47:05.104 T:11740 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+12:47:05.727 T:11740  NOTICE: initialize done
+12:47:05.727 T:11740  NOTICE: Running the application...
+12:47:05.728 T:11740  NOTICE: starting upnp client
+12:47:05.737 T:5620  NOTICE: ES: Starting UDP Event server on port 9777
+12:47:05.738 T:5620  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+12:47:06.642 T:3116   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\dom\AppData\Roaming\Kodi\cache\plugin.video.youtube\
+12:47:09.229 T:7532  NOTICE: Skin Helper Service --> Starting WebService on port 52307
+12:47:09.230 T:6872  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 started
+12:47:11.321 T:12448  NOTICE: Skin Helper Widgets --> Backgroundservice started
+12:47:12.332 T:6348  NOTICE: [FanFilm] ######################### FANFILM ############################
+12:47:12.332 T:6348  NOTICE: [FanFilm] ####### CURRENT FANFILM VERSIONS REPORT ######################
+12:47:12.332 T:5780  NOTICE: script.grab.fanart: Grab Fanart Service Started
+12:47:12.349 T:6348  NOTICE: [FanFilm] ### FANFILM PLUGIN VERSION: 2018.09.01.0 ###
+12:47:12.349 T:6348  NOTICE: [FanFilm] ### FANFILM MEDIA VERSION: 2018.07.17.0 ###
+12:47:12.349 T:6348  NOTICE: [FanFilm] ###############################################################
+12:47:18.185 T:6628  NOTICE: Polish Team Wizard: 2018-09-30 12:47:18.180000
+12:47:18.805 T:8764 WARNING: CPythonInvoker(21): Script invoked without an addon. Adding all addon modules installed to python path as fallback. This behaviour will be removed in future version.
+12:47:19.215 T:6628  NOTICE: Polish Team Wizard: Continuing Start Up Script
+12:47:19.225 T:6628  NOTICE: Polish Team Wizard: [Path Check] Started
+12:47:19.237 T:6628  NOTICE: Polish Team Wizard: [Path Check] Good!
+12:47:19.243 T:6628  NOTICE: Polish Team Wizard: [Auto Install Repo] Started
+12:47:19.251 T:6628  NOTICE: Polish Team Wizard: [Auto Install Repo] Repository already installed
+12:47:19.280 T:6628  NOTICE: Polish Team Wizard: [Auto Update Wizard] Started
+12:47:20.124 T:6628  NOTICE: Polish Team Wizard: [Auto Update Wizard] Brak nowszej wersji vFalse
+12:47:20.132 T:6628  NOTICE: Polish Team Wizard: [Notifications] Started
+12:47:20.140 T:6628  NOTICE: Polish Team Wizard: [Notifications] Not Enabled
+12:47:20.148 T:6628  NOTICE: Polish Team Wizard: [Installed Check] Started
+12:47:20.154 T:6628  NOTICE: Polish Team Wizard: [Installed Check] Not Enabled
+12:47:20.161 T:6628  NOTICE: Polish Team Wizard: [Build Check] Started
+12:47:20.168 T:6628  NOTICE: Polish Team Wizard: [Build Check] Build Installed
+12:47:20.175 T:6628  NOTICE: Polish Team Wizard: [Build Check] Build Installed: Checking Updates
+12:47:20.434 T:6628  NOTICE: Polish Team Wizard: [Check Updates] [Installed Version: 1.9.5] [Current Version: 1.9.5]
+12:47:20.440 T:6628  NOTICE: Polish Team Wizard: [Trakt Data] Started
+12:47:20.448 T:6628  NOTICE: Polish Team Wizard: [Trakt Data] Not Enabled
+12:47:20.454 T:6628  NOTICE: Polish Team Wizard: [Real Debrid Data] Started
+12:47:20.459 T:6628  NOTICE: Polish Team Wizard: [Real Debrid Data] Not Enabled
+12:47:20.524 T:6628  NOTICE: Polish Team Wizard: [Login Data] Started
+12:47:20.538 T:6628  NOTICE: Polish Team Wizard: [Login Data] Not Enabled
+12:47:20.553 T:6628  NOTICE: Polish Team Wizard: [Auto Clean Up] Started
+12:47:20.582 T:6628  NOTICE: Polish Team Wizard: [Auto Clean Up] Cache: On
+12:47:23.240 T:6580  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+12:47:23.324 T:6580  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+12:47:23.391 T:6580  NOTICE: metahandler: No SQLite rows requiring update
+12:47:23.936 T:6628  NOTICE: Polish Team Wizard: [Success] cleared 1 files from C:\Users\dom\AppData\Roaming\Kodi\cache\temp
+12:47:23.942 T:6628  NOTICE: Polish Team Wizard: [Auto Clean Up] Old Thumbs: Off
+12:47:23.946 T:6628  NOTICE: Polish Team Wizard: [Auto Clean Up] Packages: On
+12:47:24.064 T:3728  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+12:47:24.117 T:3728  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+12:47:24.264 T:3728  NOTICE: metahandler: No SQLite rows requiring update
+12:47:32.577 T:6164  NOTICE: AddOnLog: PVR IPTV Simple Client: Playlist file path is not configured. Channels not loaded.
+12:47:33.654 T:6164  NOTICE: EPG::CEpgContainer::Start - EPG thread started
+12:47:33.982 T:1816  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+12:47:34.042 T:1816  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+12:47:34.055 T:1816  NOTICE: metahandler: No SQLite rows requiring update
+12:47:34.362 T:12760  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+12:47:34.410 T:12760  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+12:47:34.419 T:12760  NOTICE: metahandler: No SQLite rows requiring update
+12:56:54.230 T:6528   ERROR: EXCEPTION: Non-Existent Control 500
+12:56:54.230 T:6528   ERROR: EXCEPTION: Non-Existent Control 111
+12:56:54.231 T:6528   ERROR: EXCEPTION: Non-Existent Control 306
+12:56:54.231 T:6528   ERROR: EXCEPTION: Non-Existent Control 309
+12:56:54.293 T:556   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\dom\AppData\Roaming\Kodi\userdata\library\video
+12:56:54.402 T:556   ERROR: XFILE::CDirectory::GetDirectory - Error getting C:\Users\dom\AppData\Roaming\Kodi\userdata\library\music
+12:57:12.104 T:12820   ERROR: CImageLoader::DoWork - Direct texture file loading failed for special://masterprofile/Thumbnails/1/115581f6.jpg
+13:14:34.625 T:10592  NOTICE: script.grab.fanart: mode
+13:14:34.632 T:10592  NOTICE: script.grab.fanart: refresh
+13:14:40.449 T:11740   ERROR: Couldn't load font name: lyr2b(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+13:14:40.457 T:11740   ERROR: Couldn't load font name: lyr3(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:14:40.464 T:11740   ERROR: Couldn't load font name: lyr3b(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+13:14:40.474 T:11740   ERROR: Couldn't load font name: lyr5b(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+13:14:40.482 T:11740   ERROR: Couldn't load font name: lyr7(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:14:40.490 T:11740   ERROR: Couldn't load font name: lyr7a(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:14:40.498 T:11740   ERROR: Couldn't load font name: lyr7b(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:14:40.505 T:11740   ERROR: Couldn't load font name: lyr7c(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+13:14:40.513 T:11740   ERROR: Couldn't load font name: lyr8b(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+13:14:40.515 T:11740   ERROR: Couldn't load font name: lyr9b(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+13:14:40.520 T:11740   ERROR: Couldn't load font name: lyr12d(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+13:14:40.521 T:11740   ERROR: Couldn't load font name: lyr13b(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+13:14:40.522 T:11740   ERROR: Couldn't load font name: lyr14(lyrics/luckiestguy.ttf), trying to substitute arial.ttf
+13:14:40.530 T:11740   ERROR: Couldn't load font name: lyr15b(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+13:14:40.538 T:11740   ERROR: Couldn't load font name: lyrsh38(lyrics/exo2-blackitalic.ttf), trying to substitute arial.ttf
+13:14:40.547 T:11740   ERROR: Couldn't load font name: lyrsh50(lyrics/nasalization-rg.ttf), trying to substitute arial.ttf
+13:14:40.555 T:11740   ERROR: Couldn't load font name: lyrsh72(lyrics/fredokaone-regular.ttf), trying to substitute arial.ttf
+13:14:40.722 T:11740   ERROR: Couldn't load font name: fontCDartist(permanentmarker.ttf), trying to substitute arial.ttf
+13:14:40.723 T:11740   ERROR: Couldn't load font name: fontCDalbum(permanentmarker.ttf), trying to substitute arial.ttf
+13:14:40.730 T:11740   ERROR: Couldn't load font name: fontScriptLyrics(gnyrwn971.ttf), trying to substitute arial.ttf
+13:14:47.022 T:3952  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+13:14:47.193 T:3952  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+13:14:47.381 T:3952  NOTICE: metahandler: No SQLite rows requiring update
+13:14:50.884 T:12924  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+13:14:50.932 T:12924  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+13:14:50.955 T:12924  NOTICE: metahandler: No SQLite rows requiring update
+13:14:59.022 T:1116  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+13:14:59.077 T:1116  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+13:14:59.092 T:1116  NOTICE: metahandler: No SQLite rows requiring update
+13:14:59.346 T:12848  NOTICE: metahandler: Initializing MetaHandlers version: 3.0.3
+13:14:59.392 T:12848  NOTICE: metahandler: Loading sqlite3 as DB engine version: 3.10.2
+13:14:59.398 T:12848  NOTICE: metahandler: No SQLite rows requiring update
+13:15:26.383 T:11740  NOTICE: Storing total System Uptime
+13:15:26.385 T:11740  NOTICE: Saving settings
+13:15:26.415 T:11740  NOTICE: Saving skin settings
+13:15:26.423 T:11740  NOTICE: stop all
+13:15:26.436 T:11740  NOTICE: stop player
+13:15:26.436 T:11740  NOTICE: ES: Stopping event server
+13:15:26.436 T:11740  NOTICE: stopping upnp
+13:15:26.609 T:5620  NOTICE: ES: UDP Event server stopped
+13:15:26.909 T:11740  NOTICE: clean cached files!
+13:15:27.520 T:12448  NOTICE: Skin Helper Widgets --> Backgroundservice stopped
+13:15:27.746 T:6872  NOTICE: Skin Helper Service --> Shutdown requested !
+13:15:27.748 T:6872  NOTICE: Skin Helper Service --> Skin Helper Service version 1.1.24 stopped
+13:15:31.008 T:11740  NOTICE: closing down remote control service
+13:15:31.008 T:11740  NOTICE: stopped
+13:15:31.210 T:11740  NOTICE: destroy
+13:15:31.210 T:11740  NOTICE: unload skin
+13:15:31.471 T:11740  NOTICE: unload sections
+13:15:31.489 T:11740  NOTICE: special://profile/ is mapped to: special://masterprofile/
+13:15:31.490 T:11740  NOTICE: PVRManager - stopping
+13:15:32.591 T:11740  NOTICE: application stopped...
